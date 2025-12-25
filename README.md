@@ -96,7 +96,7 @@ This project aims to answer the following business questions:
 
 
 ## Market Demand & Resale Value Analysis 
-![Market Analysis](screenshots/04_market_analysis.png)
+![Market Analysis](screenshots/05_market_analysis.png)
 
 ### Key Insights
 -	First-owner cars show the strongest demand and highest resale value.
